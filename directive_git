@@ -14,3 +14,26 @@
 
 6. Fermez Visual Studio Code pour le relancer, la console devrait accepter git et comprendre
    les commandes.
+
+7. Si les fichiers apparaissent en rouge, il faut les indexer: "git add --all"
+   En rentrant de nouveau git status, vous constaterez que les fichiers sont vert.
+
+8. Une fois que les fichiers sont vert, on peut faire un commit: "git commit -m "s13 Début du TP2""
+
+9. Sign in github pour créer un dépôt sur le compte git (un fichier sur un serveur) (repository)
+   (Vous pouvez skipper les éléments avec le - si vous savez quoi faire)
+
+10. -Cliquez sur "New"
+
+11. -Entrez le nom du "repository" (dépôt)
+
+12. -Assurez vous que le nom soit le plus simple possible, ex: "1w1"
+
+13. -On sélectionne pour l'instant un dépôt publique
+
+14. -Sauvegardez le dépôt
+
+15. Vous revenez à votre terminal "visual code" et entrez les commandes suivantes:
+    "git branch -m main"
+
+16. Créez un alias pour l'adresse du serveur distant
