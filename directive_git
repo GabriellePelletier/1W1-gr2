@@ -37,3 +37,8 @@
     "git branch -m main"
 
 16. Créez un alias pour l'adresse du serveur distant
+    "git remote add 1w1 https://github.com/GabriellePelletier/1W1-gr2.git"
+    pour vérifier que l'alias a été bien crée
+    "git remote
+
+17. Pour créer un "read me", créer un fichier readme.md
