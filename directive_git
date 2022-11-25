@@ -1,0 +1,16 @@
+## POUR AFFICHER LA CONSOLE GIT:
+
+1. Sélectionne le dossier principal de votre Tp avec le click droit de la souris.
+
+2. Sélectionnez "Ouvrir dans le terminal intégré".
+
+3. Créer un dépot avec la commande "git init".
+
+4. Dans l'explorateur pour voir le dossier .git, qu'on appelle le "dépot", il faut sélectionner
+   "affichage/éléments masqués" (pour retrouver le .git).
+
+5. Si la commande git n'est pas reconnu par la console, il faut installer git (avec git download),
+   à chercher sur Google).
+
+6. Fermez Visual Studio Code pour le relancer, la console devrait accepter git et comprendre
+   les commandes.

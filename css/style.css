@@ -1,0 +1,48 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+section,
+h1 {
+  margin: 0;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu {
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+#accueil {
+  background-color: rgb(246, 255, 207);
+}
+
+#inscription {
+  background-color: rgb(201, 241, 186);
+}
+
+#tableau {
+  background-color: rgb(195, 238, 227);
+}
+
+#galerie {
+  background-color: rgb(179, 208, 238);
+}
+
+#videos {
+  background-color: rgb(191, 204, 246);
+}
+
+#piedpage {
+  background-color: rgb(228, 215, 251);
+}
